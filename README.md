@@ -26,4 +26,6 @@ Pharma_Data: The primary dataset used for this analysis is the "Pharma_data_anal
 - Which months we have the least sales?
 - What is the average sales made?
 
- 
+###
+---
+- This dataset was downloaded from Kaggle.com is not an actual dataset from the NHS 🙂 
